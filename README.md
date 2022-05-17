@@ -18,7 +18,7 @@
 
 
 
-- 🌱 Estudando Java, HTML, CSS, HTML...
+- 🌱 
  
 - ☎ Contate-me: +54 9 11 3065 4466 
  
