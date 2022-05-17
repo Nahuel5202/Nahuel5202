@@ -27,6 +27,6 @@
 - 😄 Pronouns: el/ello
  
 - ⚡ Curiosidades: Estoy siemrpe aprendiendo y mejorando mis habilidades
-
+ <a href="https://drive.google.com/file/d/1y49xcUvYp0R1rTEvl9dEq465h9Lf9KLQ/view?usp=sharing" target="_blank"><p>Curriculum Vitae</p></a>
 
   
