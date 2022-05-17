@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/nahuel-lambrus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br>
   <div>
-  <a aling="center" href="https://drive.google.com/file/d/1v0DpZzQRvYANVJ6wJdfEO7vkKMuD5prV/view?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135800.png" alt="cv" width="40" height="40"/></a>
-   <a aling="center" href="https://drive.google.com/file/d/1y49xcUvYp0R1rTEvl9dEq465h9Lf9KLQ/view?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135807.png" alt="certificado" width="40" height="40"/></a>
+  <a aling="center" href="https://drive.google.com/file/d/1v0DpZzQRvYANVJ6wJdfEO7vkKMuD5prV/view?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135800.png" alt="cv" width="40" height="40"/><p>CV</p></a>
+   <a aling="center" href="https://drive.google.com/file/d/1y49xcUvYp0R1rTEvl9dEq465h9Lf9KLQ/view?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135807.png" alt="certificado" width="40" height="40"/><p>Certificado</p></a>
   </div>
  </div>
  
