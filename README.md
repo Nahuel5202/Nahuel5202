@@ -3,11 +3,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- 
+ <div align= "center">
   <a href="https://instagram.com/allaboutnahuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lambruschini5202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nahuel-lambrus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+ </div>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
