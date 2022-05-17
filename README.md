@@ -20,7 +20,7 @@
 
 - 🌱 
  
-- ☎ Contate-me: +54 9 11 3065 4466 
+- ☎ Contact me: +54 9 11 3065 4466 
  
 - 📫 e-mail: lambruschini5202@gmail.com
  
