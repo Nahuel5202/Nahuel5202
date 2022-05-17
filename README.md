@@ -16,21 +16,17 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Welcome!" width="300"/>
 </div>
 
-  
-  
-  
-  
+
 
 - 🌱 Estudando Java, HTML, CSS, HTML...
+ 
 - ☎ Contate-me: +54 9 11 3065 4466 
+ 
 - 📫 e-mail: lambruschini5202@gmail.com
+ 
 - 😄 Pronouns: el/ello
+ 
 - ⚡ Curiosidades: Estoy siemrpe aprendiendo y mejorando mis habilidades
 
-<div>
-  <a href="https://github.com/Nahuel5202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolGiamp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolGiamp&layout=compact&langs_count=7&theme=dracula"/>
- </div>
 
   
